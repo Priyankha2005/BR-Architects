@@ -1,0 +1,172 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.head,li{
+  padding: 10px;
+  letter-spacing: 2px;
+}
+.head,ul,li{
+    display: inline;
+}
+.head{
+  font-size: 20px;
+}
+ul{
+  margin-left: 1000px;
+}
+.head:hover,li:hover{
+  background-color: grey;
+}
+.picture1{
+    padding: 10px;
+}
+.word{
+  position: absolute;
+  top: 460px;
+  margin-left: 650px;
+}
+.br{
+  font-size: 40px;
+  background-color: #383A3B;
+}
+.arc{
+  font-size: 40px;
+  color: white;
+}
+.project{
+  padding: 50px;
+  padding-left: 40px;
+  padding-bottom: 10px;
+}
+.hr1{
+  border: 1px solid rgb(221, 222, 222);
+  border-top: none;
+  border-right: none;
+  border-left: none;
+}
+.picture2{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 13px;
+  margin-left: 38px;
+  position: relative;
+}
+.image{
+  height:240px;
+  width: 352px;
+}
+.housename{
+  position: absolute;
+  top: 20px;
+  background-color:black;
+  color: white;
+  padding: 5px;
+}
+.housename1{
+  position: absolute;
+  top: 297px;
+  background-color:black;
+  color: white;
+  padding: 5px;
+}
+.about{
+  padding: 50px;
+  padding-left: 40px;
+  padding-bottom: 10px;
+}
+.para{
+  margin-left: 35px;
+  margin-right:35px;
+  margin-top: 15px;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 17px;
+}
+.picture3{
+    padding: 10px;
+    margin-left:35px;
+    display: flex;
+    flex-wrap:wrap;
+    gap: 12px;
+}
+.author{
+  height:240px;
+  width: 340px;
+  padding-bottom:10px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 40px;
+  padding-top: 2px;
+  display: inline;
+}
+.name{
+  padding-top:10px ;
+}
+.position{
+  padding-bottom: 20px;
+  margin-top: 20px;
+  color: grey;
+}
+.tab{
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #F1F1F1;
+}
+.tab:hover{
+  background-color: grey;
+}
+.contact{
+  padding: 15px;
+  margin-left: 25px;
+}
+.talk{
+  padding: 15px;
+  margin-left: 25px;
+}
+.lable{
+  padding: 10px;
+}
+.box{
+   padding: 10px;
+   width: 1425px;
+   margin-left: 35px;
+}
+.author{
+  width: 350px;
+}
+.footer{
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 40px;
+}
+.one{
+  display: inline;
+}
+a{
+  text-decoration: underline;
+}
+a:hover{
+  color: green   ;
+}
+.para1{
+  padding-top: 10px;
+  width: 325px;
+}
+button{
+  margin-left: 34px;
+  padding: 20px;
+  width: 200px;
+  background-color: black;
+  color: white;
+}
+.picture4{
+  width: 1450px;
+  margin-left: 35px;
+  margin-top: 20px;
+}
+
